@@ -1,5 +1,9 @@
-streamlit
+google-generativeai
+huggingface-hub
+numpy
+pandas
 pillow
-google.generativeai
-dotenv
 PyPDF2
+python-dotenv
+streamlit
+pypdfium2
